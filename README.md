@@ -81,7 +81,7 @@ The qualifier of each column is its tables name and is automatically added at ru
 			42, 'test3', null
         }
         C = A x B
-
+https://diariomomento.com.br/
 ### Github Gist
 
 The program can load groups from a gist.
